@@ -1,0 +1,10 @@
+https://quantum-computing.ibm.com/account
+https://medium.com/faun/hello-many-worlds-in-quantum-computer-524fe90b833b
+https://docs.google.com/presentation/d/1hUqUP-9u6Z6o4tnJsbISkNlfmOt7rshcIxZMiQU1s-c/edit?usp=sharing
+https://colab.research.google.com/github/mtreinish/qiskit-workshop/blob/master/Workshop.ipynb
+https://colab.research.google.com/github/tensorflow/quantum/blob/master/docs/tutorials/hello_many_worlds.ipynb
+https://www.microsoft.com/en-us/quantum/development-kit
+https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/
+https://www.microsoft.com/en-us/quantum/microsoft-quantum-labs
+https://docs.google.com/presentation/d/1hUqUP-9u6Z6o4tnJsbISkNlfmOt7rshcIxZMiQU1s-c/edit?usp=sharing
+https://seeing-theory.brown.edu/
